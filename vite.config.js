@@ -23,5 +23,5 @@ export default defineConfig({
     }
   },
   assetsInclude: ['**/*.jpg', '**/*.png', '**/*.svg'],
-  base: './'
+  base: "/Musa_Portfolio"
 })
